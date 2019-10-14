@@ -1,2 +1,2 @@
 
-![My assignment] assignment1/hw assignment1.png
+![](https://github.com/AryaSheng/embsys101/blob/master/assignment1/hw%20assignment1.png)
