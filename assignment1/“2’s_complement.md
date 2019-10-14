@@ -16,6 +16,9 @@ We do not need to examine the operands for twos complement addition and substrac
 
 A adder works by adding, it is up to you how you intrepret the numbers, unsigned or signed, however it makes no difference to the adder. 
 
+Modern processors and twos complement, the instructions emited by x86 for signed and unsigned is in fact the same, Addq, Reg 10 Reg Rax , so basically the processor don't really care, however multi is a bit different, yet provided the source language being targeted handles unsigned and signed binary operations, sometimes, it is source language dependent. 
+
+Also it is extremely easy to implement using x86, flip the bits and add one, easy to invert bits and adding one is very simple operation, very easy when dealing with how to represent zero atomically and how to not need a extra for nothingness, very efficient and effective way to deal with a very difficult problem. 
 
 
 
