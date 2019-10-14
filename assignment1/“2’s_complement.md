@@ -11,3 +11,11 @@ Two's complement addition is very simple. You add numbers normally and any carry
 + 1111
 =10001
 = 0001 (discard the carry)
+
+We do not need to examine the operands for twos complement addition and substraction which makes caluculations to have more precision. 
+
+A adder works by adding, it is up to you how you intrepret the numbers, unsigned or signed, however it makes no difference to the adder. 
+
+
+
+
