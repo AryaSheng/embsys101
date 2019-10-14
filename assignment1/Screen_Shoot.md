@@ -1,2 +1,2 @@
 
-![My assignment]assignment1/Screen_Shoot.md
+![My assignment] assignment1/hw assignment1.png
